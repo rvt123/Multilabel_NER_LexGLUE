@@ -1,2 +1,4 @@
 # HM_Data_Science
-Code for the Data Science Assessment by the HM Land Registry
+
+### This repository contains code for the Data Science Assessment organised by the HM Land Registry.
+
