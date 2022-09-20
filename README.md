@@ -16,9 +16,9 @@ Upon understanding the [original code](https://github.com/coastalcph/lex-glue) a
 
 Workflow
 - First, the **[example_server_HM.py](https://github.com/rvt123/HM_Data_Science/blob/main/example_server_HM.py)** is run on multiple servers to find the optimal parameters for the LighGBM model. Different instances of the same program communicate using the **[trials](https://github.com/rvt123/HM_Data_Science/tree/main/trials)** folder. They individually run the experiments, but before starting a new experiment, they learn about the experiments performed by other servers using the trails objects from the folder. The trial folder may even be on a cloud server where different servers can access it.
-- Then using the code from **[HM_DATA_SCIENCE_TRAILS.ipynb](https://github.com/rvt123/HM_Data_Science/blob/main/HM_DATA_SCIENCE_TRIALS.ipynb)**, all trials objects are analyses to find the optimal paramters. Below is the loss of different models tried in hyperparamter tuning.
+- Then using the code from **[HM_DATA_SCIENCE_TRAILS.ipynb](https://github.com/rvt123/HM_Data_Science/blob/main/HM_DATA_SCIENCE_TRIALS.ipynb)**, all trial objects are analysed to find the optimal parameters. Below is the loss of different models tried in hyperparameter tuning.
 
-<img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/Hyper_tuning_scores.jpg" width="50%" height="50%">
+![Scores of different models in tried in hyperparamter tuning]<img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/Hyper_tuning_scores.jpg" width="50%" height="50%">
 
 Please find the comments with code in both the files to undrstand further.
 
