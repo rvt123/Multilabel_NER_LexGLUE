@@ -16,4 +16,4 @@ Upon understanding the [original code](https://github.com/coastalcph/lex-glue) a
 
 
 
-<img src="https://your-image-url.type](https://github.com/rvt123/HM_Data_Science/blob/main/Images/Hyper_tuning_scores.jpg" width="50%" height="50%">
+<img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/Hyper_tuning_scores.jpg" width="50%" height="50%">
