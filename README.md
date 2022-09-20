@@ -24,6 +24,6 @@ Workflow
 
 ## Part 2: Named Entity Recognition
 
-Different algorithms could be employed for Named Entity Recognition ranging from spacy, fine tuned models and some models could also be fine tuned based on ou data. Spacy is easiest of all so it was used to find NER on the test samples. Spacy has many NER entities which we don't require so those entites were filtered to LOCATION and DATE as specified and visualised using dispacy. 
+Different algorithms could be employed for Named Entity Recognition ranging from spacy to fine-tuned models, and we could even fine-tune some models based on our data. Spacy is the easiest, so it was used to find NER on the test samples. Spacy has many NER entities we don't require, so those entities were filtered to LOCATION and DATE as specified and visualised using displacy.
 
 <img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/dispacy.jpg" width="50%" height="50%">
