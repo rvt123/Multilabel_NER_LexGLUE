@@ -10,4 +10,4 @@
 
 ## Part 1: Text Classification
 
-Dataset: (ecthr_a) The European Court of Human Rights (ECtHR) hears allegations that a state has breached human rights provisions of the European Convention of Human Rights (ECHR). For each case, the dataset provides a list of factual paragraphs (facts) from the case description. Each case is mapped to articles of the ECHR that were violated (if any).
+Dataset: (ecthr_a) The European Court of Human Rights (ECtHR) hears allegations that a state has breached human rights provisions of the European Convention of Human Rights (ECHR). For each case, the dataset provides a list of factual paragraphs (facts) from the case description. Each case is mapped to articles of the ECHR that were violated (if any). There are 10 classes of voilations and some examples where there are no voilations so total of 11 classes. This is a multi-label classification problem.
