@@ -16,4 +16,4 @@ Upon understanding the [original code](https://github.com/coastalcph/lex-glue) a
 
 
 
-![This is an image2](/images/Hyper_tuning_scores.jpg)
+![This is an image2](https://github.com/rvt123/HM_Data_Science/blob/main/Images/Hyper_tuning_scores.jpg)
