@@ -20,6 +20,10 @@ Workflow
 
 <img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/Hyper_tuning_scores.jpg" width="50%" height="50%">
 
+Please find the comments with code in both the files to undrstand further.
+
 ## Part 2: Named Entity Recognition
 
-NER could be performed 
+Different algorithms could be employed for Named Entity Recognition ranging from spacy, fine tuned models and some models could also be fine tuned based on ou data. Spacy is easiest of all so it was used to find NER on the test samples. Spacy has many NER entities which we don't require so those entites were filtered to LOCATION and DATE as specified and visualised using dispacy. 
+
+<img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/dispacy.jpg" width="50%" height="50%">
