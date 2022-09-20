@@ -5,8 +5,8 @@
 ### I was supposed to perform one of the Natural Language Programming, Computer Vision, and Graphs task, and I have chosen **Natural Language Programming** task for the assessment. 
 
 According to my understanding, I have performed the task in two parts: 
-  Part 1: Classification of the text from the 1000 test samples. 
-  Part 2: Extraction of the Location and Date entities from the texts in the test sample. 
+- Part 1: Classification of the text from the 1000 test samples. 
+- Part 2: Extraction of the Location and Date entities from the texts in the test sample. 
 
 ## Part 1: Text Classification
 
