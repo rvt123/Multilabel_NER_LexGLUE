@@ -1,10 +1,8 @@
-# HM_Data_Science
+# Multilabel_NER_LexGLUE
 
-### This repository contains code for the Data Science Assessment organised by the HM Land Registry.
+### This repository contains code for the Multilabel Classifcation Task A (ecthr_a) and Named Entity Recognition (NER) on LexGLUE dataset.
 
-I was supposed to perform one of the Natural Language Programming, Computer Vision, and Graphs task, and I have chosen **Natural Language Programming** task for the assessment. 
-
-#### According to my understanding, I have performed the task in two parts: 
+####   I have performed the task in two parts: 
 #### - Part 1: Classification of the text from the 1000 test samples. 
 #### - Part 2: Extraction of the Location and Date entities from the texts in the test sample. 
 
@@ -24,6 +22,6 @@ Workflow
 
 ## Part 2: Named Entity Recognition
 
-Different algorithms could be employed for Named Entity Recognition ranging from spacy to fine-tuned models, and we could even fine-tune some models based on our data. Spacy is the easiest, so it was used to find NER on the test samples. Spacy has many NER entities we don't require, so those entities were filtered to LOCATION and DATE as specified and visualised using displacy. Link to the netobook. **[Notebook](https://github.com/rvt123/HM_Data_Science/blob/main/HM_NAMED_ENTITY.ipynb)**
+Different algorithms could be employed for Named Entity Recognition ranging from spacy to fine-tuned models. Spacy is the easiest, so it was used to find NER on the test samples. Spacy has many NER entities we don't require, so those entities were filtered to LOCATION and DATE as specified and visualised using displacy. Link to the netobook. **[Notebook](https://github.com/rvt123/HM_Data_Science/blob/main/HM_NAMED_ENTITY.ipynb)**
 
 <img src="https://github.com/rvt123/HM_Data_Science/blob/main/Images/dispacy.jpg" width="50%" height="50%">
